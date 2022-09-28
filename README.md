@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VanyaRH
+- 👋 Hi, I’m Ivan Rosokha, Front-end Developer
 
 <!---
 VanyaRH/VanyaRH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
