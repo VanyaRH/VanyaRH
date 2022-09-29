@@ -1,4 +1,4 @@
-[![Vanya GitHub Banner](./assets/images/git_bg.jpg)](https://irosokha.vercel.app/)
+[![Vanya GitHub Banner]]](https://raw.githubusercontent.com/VanyaRH/MyPortfolio/076b81aad3c4778bdd0b5be1b13b6f7e5484d5ea/src/assets/images/git_bg.jpg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
